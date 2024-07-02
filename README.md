@@ -61,7 +61,7 @@ return {
     "dashboard",
     "packer",
     "neo-tree",
-    "neogitstatus",
+    "NeogitStatus",
     "NvimTree",
     "Trouble",
     "alpha",
@@ -70,7 +70,10 @@ return {
     "spectre_panel",
     "toggleterm",
     "TelescopePrompt",
-    "prompt"
+    "prompt",
+    "dap-repl",
+    "aerial",
+    "trouble",
   },
 }
 ```
